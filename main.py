@@ -7,5 +7,6 @@
 # v2
 # v4
 # v5
+# v6
 if __name__ == 'main':
 	print('SMTPMail Application')
