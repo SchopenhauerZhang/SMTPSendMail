@@ -2,10 +2,6 @@
 import smtplib
 
 # 外部函数库
-from email.mime.text import MIMEText
-from email.mime.multipart import MIMEMultipart
-from email.mime.image import MIMEImage
-from email.header import Header
 
 
 class SMTPMail:
