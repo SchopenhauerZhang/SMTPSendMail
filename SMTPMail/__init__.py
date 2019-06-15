@@ -5,3 +5,5 @@
 # @license:Copyright Schopenhauerzhang@icloud.com All rights Reserved.  
 # @Time: 2019-05-04 19:05
 
+def init():
+	return 'init'
