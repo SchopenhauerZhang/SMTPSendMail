@@ -2,7 +2,7 @@
 import smtplib
 
 # 外部函数库
-
+# py v6
 
 class SMTPMail:
     __user = 'Schopenhauerzhang@icloud.com'
