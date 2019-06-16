@@ -1,9 +1,7 @@
 #!/usr/bin/python3
-# @File: __init__.py
+# @File: FTPMail.py
 # --coding:utf-8--
 # @Author:Schopenhauerzhang@icloud.com(Schopenhauerzhang@gmail.com)
 # @license:Copyright Schopenhauerzhang@icloud.com All rights Reserved.  
-# @Time: 2019-05-04 19:05
-
-def init():
-	return 'init'
+# @Time: 2019-06-15 16:09
+# v2
