@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import smtplib
 
-# 外部函数库
+# 外部函数库 谁用谁添加
 
 
 class SMTPMail:
